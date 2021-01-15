@@ -4,6 +4,6 @@
 
  <p align='center'>
   <a href="#">
-    <img src='' alt="cert-01">
+    <img src='https://github.com/mohd-faizy/CAREER-TRACK-Machine-Learning-Scientist-with-Python/blob/main/_Certificates/%5BCert%5D_01_Supervised%20Learning%20with%20scikit-learn.jpg?raw=true' alt="cert-01">
   </a>
 </p>
