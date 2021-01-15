@@ -50,3 +50,9 @@ gm_cv.fit(X_train, y_train)
 r2 = gm_cv.score(X_test, y_test)
 print("Tuned ElasticNet Alpha: {}".format(gm_cv.best_params_))
 print("Tuned ElasticNet R squared: {}".format(r2))
+
+'''
+<script.py> output:
+    Tuned ElasticNet Alpha: {'elasticnet__l1_ratio': 1.0}
+    Tuned ElasticNet R squared: 0.8862016570888217
+'''
