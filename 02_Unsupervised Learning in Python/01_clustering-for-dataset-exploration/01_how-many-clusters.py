@@ -1,7 +1,9 @@
 '''
-How many clusters?
+01 - How many clusters?
 
-You are given an array points of size 300x2, where each row gives the (x, y) co-ordinates of a point on a map. Make a scatter plot of these points, and use the scatter plot to guess how many clusters there are.
+You are given an array points of size 300x2, where each row gives the (x, y)
+co-ordinates of a point on a map. Make a scatter plot of these points, and use 
+the scatter plot to guess how many clusters there are.
 
 matplotlib.pyplot has already been imported as plt. In the IPython Shell:
 
