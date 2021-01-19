@@ -39,10 +39,11 @@ print(similarities.nlargest())
 
 
 '''
-Bruce Springsteen    1.000000
-Neil Young           0.955896
-Van Morrison         0.872452
-Leonard Cohen        0.864763
-Bob Dylan            0.859047
-dtype: float64
+<script.py> output:
+    Bruce Springsteen    1.000000
+    Neil Young           0.955896
+    Van Morrison         0.872452
+    Leonard Cohen        0.864763
+    Bob Dylan            0.859047
+    dtype: float64
 '''
