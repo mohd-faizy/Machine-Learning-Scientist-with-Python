@@ -2,7 +2,7 @@
 
  <p align='center'>
   <a href="#">
-    <img src='' alt="head">
+    <img src='https://github.com/mohd-faizy/CAREER-TRACK-Machine-Learning-Scientist-with-Python/blob/main/_oth/head.gif?raw=true' alt="head">
   </a>
 </p>
 
