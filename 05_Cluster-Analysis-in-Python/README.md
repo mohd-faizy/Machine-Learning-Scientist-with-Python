@@ -6,6 +6,6 @@ You have probably come across Google News, which automatically groups similar ne
 
  <p align='center'>
   <a href="#">
-    <img src='' alt="cert-05">
+    <img src='https://github.com/mohd-faizy/CAREER-TRACK-Machine-Learning-Scientist-with-Python/blob/main/_Certificates/%5BCert%5D_05_Cluster%20Analysis%20in%20Python.jpg?raw=true' alt="cert-05">
   </a>
 </p>
