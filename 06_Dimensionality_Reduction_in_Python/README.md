@@ -7,6 +7,6 @@ High-dimensional datasets can be overwhelming and leave you not knowing where to
 
  <p align='center'>
   <a href="#">
-    <img src='https://github.com/mohd-faizy/CAREER-TRACK-Machine-Learning-Scientist-with-Python/blob/main/_Certificates/%5BCert%5D_06_Dimensionality%20Reduction%20in%20Python.jpg?raw=true' alt="cert-05">
+    <img src='https://github.com/mohd-faizy/CAREER-TRACK-Machine-Learning-Scientist-with-Python/blob/main/_Certificates/%5BCert%5D_06_Dimensionality%20Reduction%20in%20Python.jpg?raw=true' alt="cert-06">
   </a>
 </p>

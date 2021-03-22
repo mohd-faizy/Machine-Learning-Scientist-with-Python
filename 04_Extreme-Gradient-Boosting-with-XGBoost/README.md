@@ -7,6 +7,6 @@ Do you know the basics of supervised learning and want to use state-of-the-art m
 
  <p align='center'>
   <a href="#">
-    <img src='https://github.com/mohd-faizy/CAREER-TRACK-Machine-Learning-Scientist-with-Python/blob/main/_Certificates/%5BCert%5D_04_Extreme%20Gradient%20Boosting%20with%20XGBoost.jpg?raw=true' alt="cert-01">
+    <img src='https://github.com/mohd-faizy/CAREER-TRACK-Machine-Learning-Scientist-with-Python/blob/main/_Certificates/%5BCert%5D_04_Extreme%20Gradient%20Boosting%20with%20XGBoost.jpg?raw=true' alt="cert-04">
   </a>
 </p>
