@@ -1,11 +1,11 @@
-# Preprocessing_for_Machine_Learning_in_Python
+# Machine Learning for Time Series Data in Python
 
-This course covers the basics of how and when to perform data preprocessing. This essential step in any machine learning project is when you get your data ready for modeling. Between importing and cleaning your data and fitting your machine learning model is when preprocessing comes into play. You'll learn how to standardize your data so that it's in the right form for your model, create new features to best leverage the information in your dataset, and select the best features to improve your model fit. Finally, you'll have some practice preprocessing by getting a dataset on UFO sightings ready for modeling.
+Time series data is ubiquitous. Whether it be stock market fluctuations, sensor data recording climate change, or activity in the brain, any signal that changes over time can be described as a time series. Machine learning has emerged as a powerful method for leveraging complexity in data in order to generate predictions and insights into the problem one is trying to solve. This course is an intersection between these two worlds of machine learning and time series data, and covers feature engineering, spectograms, and other advanced techniques in order to classify heartbeat sounds and predict stock prices.
 
 [Statement Of Accomplishment]()
 
  <p align='center'>
   <a href="#">
-    <img src='' alt="cert-05">
+    <img src='' alt="cert-08">
   </a>
 </p>
