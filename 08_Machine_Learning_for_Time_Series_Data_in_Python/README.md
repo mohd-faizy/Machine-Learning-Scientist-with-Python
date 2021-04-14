@@ -6,6 +6,6 @@ Time series data is ubiquitous. Whether it be stock market fluctuations, sensor 
 
  <p align='center'>
   <a href="#">
-    <img src='' alt="cert-08">
+    <img src='https://github.com/mohd-faizy/CAREER-TRACK-Machine-Learning-Scientist-with-Python/blob/main/_Certificates/%5BCert%5D_08_Machine%20Learning%20for%20Time%20Series%20Data%20in%20Python.jpg?raw=true' alt="cert-08">
   </a>
 </p>
