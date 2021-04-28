@@ -7,6 +7,6 @@ Machine learning models are easier to implement now more than ever before. Witho
 
  <p align='center'>
   <a href="#">
-    <img src='' alt="cert-10">
+    <img src='https://github.com/mohd-faizy/CAREER-TRACK-Machine-Learning-Scientist-with-Python/blob/main/_Certificates/%5BCert%5D_10_Model%20Validation%20in%20Python.jpg?raw=true' alt="cert-10">
   </a>
 </p>
