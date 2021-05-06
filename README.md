@@ -18,7 +18,7 @@
 ### :zero::one:[Supervised Learning with scikit-learn](https://github.com/mohd-faizy/CAREER-TRACK-Machine-Learning-Scientist-with-Python/tree/main/01_Supervised%20Learning%20with%20scikit-learn)
 ### :zero::two:[Unsupervised Learning in Python](https://github.com/mohd-faizy/CAREER-TRACK-Machine-Learning-Scientist-with-Python/tree/main/02_Unsupervised%20Learning%20in%20Python)
 
-### :zero::three:[]()
+### :zero::three:[Linear-Classifiers-in-Python]()
 
 ### :zero::four:[]()
 ### :zero::five:[]()
