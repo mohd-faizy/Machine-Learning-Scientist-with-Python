@@ -23,8 +23,16 @@
 
 > Machine learning is an application of AI that enables systems to learn and improve from experience without being explicitly programmed. Machine learning focuses on developing computer programs that can access data and use it to learn for themselves.
 > 
-### **LEARNING TRACK**
+### **Types of Machine Learning**
 
+ <p align='center'>
+  <a href="#">
+    <img src='_img/ml-types.png' alt="ml-types">
+  </a>
+</p>
+
+### **LEARNING TRACK**
+---
 1. [**Supervised Learning with scikit-learn**](https://github.com/mohd-faizy/CAREER-TRACK-Machine-Learning-Scientist-with-Python/tree/main/01_Supervised%20Learning%20with%20scikit-learn)
 
 2. [**Unsupervised Learning in Python**](https://github.com/mohd-faizy/CAREER-TRACK-Machine-Learning-Scientist-with-Python/tree/main/02_Unsupervised%20Learning%20in%20Python)
