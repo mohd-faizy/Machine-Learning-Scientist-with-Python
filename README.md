@@ -1,4 +1,4 @@
-# CAREER TRACK Machine Learning Scientist with Python
+# CAREER TRACK - Machine Learning Scientist with Python
 
 [![author](https://img.shields.io/badge/author-mohd--faizy-red)](https://github.com/mohd-faizy)
 ![made-with-Markdown](https://img.shields.io/badge/Made%20with-markdown-blue)
@@ -12,7 +12,7 @@
 
  <p align='center'>
   <a href="#">
-    <img src='https://github.com/mohd-faizy/CAREER-TRACK-Machine-Learning-Scientist-with-Python/blob/main/_oth/head.gif?raw=true' alt="head">
+    <img src='_img/head-png.png' alt="head-img">
   </a>
 </p>
 
